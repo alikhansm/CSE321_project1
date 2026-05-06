@@ -1,0 +1,4 @@
+tree,d,total_time_sec,mean_us_per_query
+B-tree,10,0.00273011,0.27301
+B*-tree,10,0.0022624,0.22624
+B+-tree,10,0.0028016,0.28016
